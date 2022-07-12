@@ -30,3 +30,8 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
 }
+
+.video{
+    text-align:center;
+    margin:30px;
+}
